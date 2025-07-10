@@ -110,6 +110,3 @@ Built with ❤️ by [**Soubhagya Ghoshal**](https://github.com/SoubhagyaGhoshal
 ```
 
 
-
-
-# Weather
